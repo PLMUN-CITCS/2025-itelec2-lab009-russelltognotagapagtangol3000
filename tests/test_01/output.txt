@@ -1,0 +1,1 @@
+Enter a number: The number 5 is Odd.
